@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wise_sso_server"
+  id="myeclipse.1436839105603"
+  context-root="/wise_sso_server"
+  j2ee-spec="5.0"
+  archive="wise_sso_server.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
