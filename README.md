@@ -1,0 +1,2 @@
+# WiseSSO
+A SSO solution.
